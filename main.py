@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 import time
 
-
 print('Put some skill that you are unfamiliar with')
 unfamiliar_skill = input('>')
 print(f'Filtering out {unfamiliar_skill}')
